@@ -117,6 +117,7 @@ body {
     color: var(--black); 
     margin: 0;
     padding: 0;
+    
 }
 
 button {
@@ -164,7 +165,7 @@ input:focus, textarea:focus {
 .banner {
     width: 100%;
     max-width: 1200px;
-    margin: 20px 0;
+    margin: 10px 0;
 }
 
 .banner h1 {
@@ -184,6 +185,7 @@ input:focus, textarea:focus {
     display: inline-block;
     width: 100%;
     max-width: 1200px;
+
 }
 
 .banner-image {
